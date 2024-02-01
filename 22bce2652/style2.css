@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(rgba(85, 85, 240, 0.5),rgba(36, 36, 250, 0.5)),url("img23.jpg");
+    background-size:cover;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    height:100vh;
+    margin:0;
+}
+p{
+    color:white;
+}
+form{
+    text-align:center;
+}
+h1{
+    color:bisque;
+}
+.hidden{
+    display: none;
+}
+.fname{
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    align-items: center;
+}
